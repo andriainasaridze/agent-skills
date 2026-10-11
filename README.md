@@ -1,6 +1,6 @@
 # Agent Skills
 
-A personal collection of reusable agent skills for Codex and other compatible AI coding agents.
+A personal collection of reusable agent skills for compatible AI coding agents.
 
 The purpose of this repository is to keep repeatable workflows, engineering standards, review processes, and automation instructions in one place so they can be reused across different projects.
 
